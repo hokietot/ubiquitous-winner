@@ -1,0 +1,10 @@
+C:\Users\Benjamin\AppData\Local\Temporary Projects\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\Benjamin\AppData\Local\Temporary Projects\ClassExample\obj\Debug\ClassExample.vbprojResolveAssemblyReference.cache
+C:\Users\Benjamin\AppData\Local\Temporary Projects\ClassExample\obj\Debug\ClassExample.frmOrderForm.resources
+C:\Users\Benjamin\AppData\Local\Temporary Projects\ClassExample\obj\Debug\ClassExample.Resources.resources
+C:\Users\Benjamin\AppData\Local\Temporary Projects\ClassExample\obj\Debug\ClassExample.vbproj.GenerateResource.Cache
+C:\Users\Benjamin\AppData\Local\Temporary Projects\ClassExample\obj\Debug\ClassExample.xml
+C:\Users\Benjamin\Desktop\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\Benjamin\Desktop\ClassExample\ClassExample\obj\Debug\ClassExample.xml
+C:\Users\Benjamin\Source\Repos\ubiquitous-winner\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\Benjamin\Source\Repos\ubiquitous-winner\ClassExample\ClassExample\obj\Debug\ClassExample.xml
